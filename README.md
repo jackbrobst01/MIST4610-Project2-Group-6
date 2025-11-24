@@ -26,7 +26,7 @@ Return holds information about which items have been returned, such as reason, s
 
 Overall, the data model represents the main functions and systems of an online shopping center, including browsing items, adding products to a cart, purchasing, and shipping, all while storing information about the customer, like a real-world situation.
 
-<img width="1261" height="1002" alt="MIST Project 2 data model" src="https://github.com/user-attachments/assets/fe176a3e-5d71-4f7f-8b29-3b6c05642959" />
+<img width="1261" height="1002" alt="MIST Project 2 data model" src="https://github.com/user-attachments/assets/f97eab12-f7c4-499b-99de-623aa54d46d1" />
 
 
 ## Data Dictionary:
