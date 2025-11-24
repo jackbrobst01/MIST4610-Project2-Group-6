@@ -11,6 +11,21 @@
 The task for our project is to design and build a database for an online retail company. The main focus of the database is the Customer entity, who can browse products, add products to their cart, and purchase the items. Some of the other entities consist of Product, Cart, Order, Payment, Shipper, and Address, which all work together to help track the shopping process. The goal was to design this model in a way that represents how an e-commerce store would work in real life. After creating the model, we populated it with data to represent business activity and then made 5 complex SQL queries to answer questions with the data that real managers would find helpful.
 
 ## Data Model:
+
+Our model is based on an online retailer that sells products through an e-commerce platform. Customer, the main entity, stores information about each person who visits our online shop. Each customer can store multiple addresses for their shipping/billing accounts, but addresses cna only be linked to one customer (one to many). Each customer can also have one cart to store what they are shopping for and keep products in the cart while browsing. This is represented by the one-to-one between Cart and Customer.
+
+Cart_Item serves as a bridge between Cart and Product, allowing a cart to hold many products and keep track of how many products are in each cart. Once a customer confirms their purchase, a record is kept in the Order Entity. Each order is linked to the customer who made it. An order can have many products, which is represented by the Order_item table and forms a many-to-many relationship between the two.
+
+Payment is connected to Order through a one to one relationship representing how each order only has one payment and visa versa. The Shipper entity is also connected to Order through a one to one and stores information about the name and how the item was shipped (ground, air, 2-day, etc). Since one shipper can handle many orders, there is a one-to-many relationship between Shipper and Order.
+
+The Product table stores basic product details such as name and price and is linked to the Category table, which groups products into logical sections such as “Electronics” or “Home.” It is connected to the Category entity through a one to many because a product can only be associated with one category, but categories can have many products. Category has a recursive relationship with itself because certain categories can have subcategories.
+
+Review allows customers to leave feedback on a certain product and holds a one to many relationships from Customer and Product. Coupon allows customers to use discounts when purchasing, so there is a one to many relationship with Order. Inventory tracks the amount or quantity of a certain product we have in stock, forming a one to one relationship with Product. 
+
+Return holds information about which items have been returned, such as reason, stautus, and the amount of the refund. It connects to order through a one to many because a single order may have one or many returns if a customer returns one item at a time for multiple returns. Supplier stores data about the vendors who deliver our products creating a one to many relationship wth Product. 
+
+Overall, the data model represents the main functions and systems of an online shopping center, including browsing items, adding products to a cart, purchasing, and shipping, all while storing information about the customer, like a real-world situation.
+
 <img width="1261" height="1002" alt="MIST Project 2 data model" src="https://github.com/user-attachments/assets/fe176a3e-5d71-4f7f-8b29-3b6c05642959" />
 
 
