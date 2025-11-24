@@ -33,14 +33,18 @@ Overall, the data model represents the main functions and systems of an online s
 <img width="1147" height="643" alt="image" src="https://github.com/user-attachments/assets/6037ad49-3c62-4900-93e9-20153086a84b" />
 <img width="1152" height="826" alt="image" src="https://github.com/user-attachments/assets/e8a3dcfc-5684-44b1-80c4-d07ca4c32d10" />
 <img width="1153" height="885" alt="image" src="https://github.com/user-attachments/assets/a7ed8374-16e3-4aa9-9564-4f2fd939025b" />
-<img width="1152" height="769" alt="image" src="https://github.com/user-attachments/assets/a82b64c3-c85e-474c-8781-b9369fec0ba9" />
+<img width="1148" height="1179" alt="image" src="https://github.com/user-attachments/assets/663e7989-b801-455c-8cf3-c36ac893527f" />
 <img width="1165" height="738" alt="image" src="https://github.com/user-attachments/assets/e44b042c-048f-4497-b8ff-44410bb4e09e" />
 <img width="1151" height="1044" alt="image" src="https://github.com/user-attachments/assets/28683260-3bcc-425f-ba30-5dc1d6f7507f" />
-<img width="1179" height="1098" alt="image" src="https://github.com/user-attachments/assets/d151bda9-09ba-43de-a855-cfddccb69fa6" />
+<img width="1137" height="1173" alt="image" src="https://github.com/user-attachments/assets/1d4e3df3-1721-4e72-92da-8bb1313d20b7" />
 <img width="1149" height="1198" alt="image" src="https://github.com/user-attachments/assets/159dc902-b449-40af-be82-008931b9c6a8" />
 <img width="1181" height="837" alt="image" src="https://github.com/user-attachments/assets/de272872-3e20-4eb8-acd5-285da162cd89" />
 <img width="1166" height="504" alt="image" src="https://github.com/user-attachments/assets/1efde322-4b96-462d-9427-828101637167" />
-
+<img width="1166" height="1095" alt="image" src="https://github.com/user-attachments/assets/928d9218-d5b0-4ccf-9257-d06c5e611369" />
+<img width="1140" height="590" alt="image" src="https://github.com/user-attachments/assets/4e36f834-7a0e-4130-bb4e-056fe8fe332c" />
+<img width="1183" height="719" alt="image" src="https://github.com/user-attachments/assets/dd8e4314-e83d-4b89-becd-38b8332754ed" />
+<img width="1142" height="920" alt="image" src="https://github.com/user-attachments/assets/b14446a6-0c9d-4797-bb43-69e7fbf67467" />
+<img width="1158" height="832" alt="image" src="https://github.com/user-attachments/assets/a9272926-ed05-4b95-bb91-542feff7c752" />
 
 ## 5 Queries:
 
