@@ -49,9 +49,9 @@ Overall, the data model represents the main functions and systems of an online s
 ## 5 Queries:
 
 ## Metabase Visualizations:
-<img width="359" height="186" alt="revenue" src="https://github.com/user-attachments/assets/827bd7bf-54fd-4696-ba17-4f4cdcf7f1e7" />
-<img width="355" height="186" alt="sales" src="https://github.com/user-attachments/assets/35bb40c5-e77d-4d3b-8e26-c1de421425bb" />
-<img width="365" height="194" alt="rating" src="https://github.com/user-attachments/assets/e3c14d4e-78ba-4e21-bd33-fbee8a5b4309" />
+<img width="1050" height="570" alt="revenue" src="https://github.com/user-attachments/assets/827bd7bf-54fd-4696-ba17-4f4cdcf7f1e7" />
+<img width="1050" height="570" alt="sales" src="https://github.com/user-attachments/assets/35bb40c5-e77d-4d3b-8e26-c1de421425bb" />
+<img width="1100" height="590" alt="rating" src="https://github.com/user-attachments/assets/e3c14d4e-78ba-4e21-bd33-fbee8a5b4309" />
 
 
 
