@@ -48,7 +48,28 @@ Overall, the data model represents the main functions and systems of an online s
 
 ## 5 Queries:
 
-## Visualizations:
+## Metabase Visualizations:
+import jwt
+import time
+
+METABASE_SITE_URL = "http://localhost:3000"
+METABASE_SECRET_KEY = "5ea7ced9acf989261513bd23166d95b7c3ff72390ee1ad7e46d6196425bb537a"
+
+payload = {
+  "resource": {"dashboard": 2},
+  "params": {
+    
+  },
+  "exp": round(time.time()) + (60 * 10) # 10 minute expiration
+}
+token = jwt.encode(payload, METABASE_SECRET_KEY, algorithm="HS256")
+
+iframeUrl = METABASE_SITE_URL + "/embed/dashboard/" + token + "#bordered=true&titled=true"
+
+
+
+
+
 
 ## Database Information:
 
