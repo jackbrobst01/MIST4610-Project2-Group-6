@@ -52,11 +52,20 @@ Overall, the data model represents the main functions and systems of an online s
 <img width="1050" height="500" alt="revenue" src="https://github.com/user-attachments/assets/827bd7bf-54fd-4696-ba17-4f4cdcf7f1e7" />
 <img width="1050" height="500" alt="sales" src="https://github.com/user-attachments/assets/35bb40c5-e77d-4d3b-8e26-c1de421425bb" />
 <img width="1100" height="500" alt="rating" src="https://github.com/user-attachments/assets/e3c14d4e-78ba-4e21-bd33-fbee8a5b4309" />
+Total Revenue per Category:
 
+Purpose: To show how much total revenue each product category generates, based on the sum of all order-item sales.
+Relevance: This chart helps managers quickly see which categories drive the most money for the business. Management can decide where to invest more resources, which categories may need promotions, and where margins may be improved. It also highlights categories that may be underperforming relative to expectations or inventory levels.
 
+Number of Sales per Category:
 
+Purpose: To measure how many orders include products from each category.
+Relevance: A high order count indicates strong customer demand, even if the category’s revenue is not the highest. Management can identify which categories are growing in popularity and which ones may need marketing support. Comparing order volume with revenue also reveals whether some categories sell many small orders or fewer big-ticket items — crucial for pricing, bundling, and inventory decisions.
 
+Average Customer Review Rating per Category:
 
+Purpose: To show the average customer review rating for products in each category.
+Relevance: This chart provides insight into customer satisfaction and product quality. Categories with high revenue but low ratings may require attention — poor customer experience can harm repeat purchases. Conversely, categories with high ratings can be leveraged for brand value or upsell opportunities. This chart helps management prioritize quality improvements, customer support initiatives, and product development.
 
 ## Database Information:
 
