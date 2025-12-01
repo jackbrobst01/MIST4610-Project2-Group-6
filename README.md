@@ -47,6 +47,8 @@ Overall, the data model represents the main functions and systems of an online s
 <img width="1158" height="832" alt="image" src="https://github.com/user-attachments/assets/a9272926-ed05-4b95-bb91-542feff7c752" />
 
 ## 5 Queries:
+<img width="1180" height="500" alt="image" src="https://github.com/user-attachments/assets/13219ca3-326d-4355-bc0d-75c5752dfc0a" />
+
 1. This insight enables managers to identify natural product pairings that customers frequently buy together, which can guide decisions on selling strategies, promotional placement, and personalized product recommendations.
 <img width="1000" height="1051" alt="q1" src="https://github.com/user-attachments/assets/f9b023c3-1b6b-4b4f-912e-e7c9eeef4090" />
 
