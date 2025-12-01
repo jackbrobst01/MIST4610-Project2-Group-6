@@ -58,10 +58,10 @@ Overall, the data model represents the main functions and systems of an online s
 <img width="400" height="400" alt="q3a" src="https://github.com/user-attachments/assets/b1ff111f-cb35-4d8f-85c5-b9d56c26a487" />
 
 4. Understanding how many products customers add to their carts but never purchase allows managers to detect potential revenue loss, diagnose friction in the shopping or checkout process, and implement targeted remarketing or UX improvements to increase conversions.
-<img width="600" height="400" alt="q4" src="https://github.com/user-attachments/assets/a2280591-4930-4889-b1a1-9afd5803f684" />
-<img width="400" height="400" alt="q4a" src="https://github.com/user-attachments/assets/60dd59ec-d557-4852-b627-daa38a3a9936" />
+<img width="600" height="600" alt="q4" src="https://github.com/user-attachments/assets/a2280591-4930-4889-b1a1-9afd5803f684" />
+<img width="400" height="600" alt="q4a" src="https://github.com/user-attachments/assets/60dd59ec-d557-4852-b627-daa38a3a9936" />
 
-5. ?
+5. 
  
 ## Metabase Visualizations:
 <img width="1050" height="500" alt="revenue" src="https://github.com/user-attachments/assets/827bd7bf-54fd-4696-ba17-4f4cdcf7f1e7" />
