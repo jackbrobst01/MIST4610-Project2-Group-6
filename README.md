@@ -47,21 +47,22 @@ Overall, the data model represents the main functions and systems of an online s
 <img width="1158" height="832" alt="image" src="https://github.com/user-attachments/assets/a9272926-ed05-4b95-bb91-542feff7c752" />
 
 ## 5 Queries:
-1. This query identifies pairs of products that are most frequently purchased together in the same order over the last 90 days.
+1. This insight enables managers to identify natural product pairings that customers frequently buy together, which can guide decisions on selling strategies, promotional placement, and personalized product recommendations.
 <img width="1000" height="1051" alt="q1" src="https://github.com/user-attachments/assets/f9b023c3-1b6b-4b4f-912e-e7c9eeef4090" />
 
-2. This query calculates three important metrics for each customer. It shows how recently they ordered , how often they ordered, and how much money they have spent in total.
+2. The results help managers recognize the organization’s most valuable customers, determine which buyers may be losing interest, and shape loyalty, retention, and marketing strategies based on customer spending behavior and engagement patterns.
 <img width="1035" height="991" alt="q2" src="https://github.com/user-attachments/assets/8d310841-1e16-42b4-9419-410a3ba57427" />
 
-3. This query summarizes how each product category performs with each shipping provider and service level over the last six months.
+3. This information supports managerial decisions by highlighting which product categories and shipping partners drive the most orders and revenue, helping managers evaluate performance, optimize shipping partnerships, and ensure that service levels align with profitability goals.
 <img width="541" height="358" alt="q3" src="https://github.com/user-attachments/assets/4c79b8f9-4b8b-4614-8e3c-35d7fd024ba2" />
 <img width="398" height="358" alt="q3a" src="https://github.com/user-attachments/assets/b1ff111f-cb35-4d8f-85c5-b9d56c26a487" />
 
-4. This query compares how many distinct products each customer has added to their cart versus how many distinct products they have actually purchased.
-   <img width="315" height="359" alt="q4" src="https://github.com/user-attachments/assets/a2280591-4930-4889-b1a1-9afd5803f684" />
+4. Understanding how many products customers add to their carts but never purchase allows managers to detect potential revenue loss, diagnose friction in the shopping or checkout process, and implement targeted remarketing or UX improvements to increase conversions.
+<img width="315" height="359" alt="q4" src="https://github.com/user-attachments/assets/a2280591-4930-4889-b1a1-9afd5803f684" />
 <img width="398" height="359" alt="q4a" src="https://github.com/user-attachments/assets/60dd59ec-d557-4852-b627-daa38a3a9936" />
 
-5. 
+5. ?
+ 
 ## Metabase Visualizations:
 <img width="1050" height="500" alt="revenue" src="https://github.com/user-attachments/assets/827bd7bf-54fd-4696-ba17-4f4cdcf7f1e7" />
 <img width="1050" height="500" alt="sales" src="https://github.com/user-attachments/assets/35bb40c5-e77d-4d3b-8e26-c1de421425bb" />
