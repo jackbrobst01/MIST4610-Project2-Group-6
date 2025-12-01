@@ -61,7 +61,11 @@ Overall, the data model represents the main functions and systems of an online s
 <img width="600" height="600" alt="q4" src="https://github.com/user-attachments/assets/a2280591-4930-4889-b1a1-9afd5803f684" />
 <img width="400" height="1200" alt="q4a" src="https://github.com/user-attachments/assets/60dd59ec-d557-4852-b627-daa38a3a9936" />
 
-5. 
+5.This query identifies customers who may be dissatisfied by finding those who have left low ratings and have also returned products. This helps the business proactively reach out, resolve issues, and improve overall customer satisfaction and retention.
+<img width="1090" height="621" alt="image" src="https://github.com/user-attachments/assets/27b65555-1bf4-4ef1-8119-35fa59fcb2a5" />
+<img width="847" height="157" alt="image" src="https://github.com/user-attachments/assets/63ef7c0a-0507-41fc-865d-d23cad502620" />
+
+
  
 ## Metabase Visualizations:
 <img width="1050" height="500" alt="revenue" src="https://github.com/user-attachments/assets/827bd7bf-54fd-4696-ba17-4f4cdcf7f1e7" />
