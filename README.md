@@ -49,21 +49,31 @@ Overall, the data model represents the main functions and systems of an online s
 ## 5 Queries:
 <img width="1180" height="500" alt="image" src="https://github.com/user-attachments/assets/13219ca3-326d-4355-bc0d-75c5752dfc0a" />
 
-1. This insight enables managers to identify natural product pairings that customers frequently buy together, which can guide decisions on selling strategies, promotional placement, and personalized product recommendations.
+1. This query shows products that are often bought together in the same order over the last 90 days.
+
+This is helpful because the insight enables managers to identify natural product pairings that customers frequently buy together, which can guide decisions on selling strategies, promotional placement, and personalized product recommendations.
 <img width="1000" height="1051" alt="q1" src="https://github.com/user-attachments/assets/f9b023c3-1b6b-4b4f-912e-e7c9eeef4090" />
 
-2. The results help managers recognize the organization’s most valuable customers, determine which buyers may be losing interest, and shape loyalty, retention, and marketing strategies based on customer spending behavior and engagement patterns.
+2. This query shows the most valuable customers based on recent activity, number of orders, and money spent.
+
+The results help managers recognize the organization’s most valuable customers, determine which buyers may be losing interest, and shape loyalty, retention, and marketing strategies based on customer spending behavior and engagement patterns.
 <img width="1035" height="991" alt="q2" src="https://github.com/user-attachments/assets/8d310841-1e16-42b4-9419-410a3ba57427" />
 
-3. This information supports managerial decisions by highlighting which product categories and shipping partners drive the most orders and revenue, helping managers evaluate performance, optimize shipping partnerships, and ensure that service levels align with profitability goals.
+3. This query shows the number of orders and revenue for each category and shipping providers  
+
+This information supports managerial decisions by highlighting which product categories and shipping partners drive the most orders and revenue, helping managers evaluate performance, optimize shipping partnerships, and ensure that service levels align with profitability goals.
 <img width="600" height="400" alt="q3" src="https://github.com/user-attachments/assets/4c79b8f9-4b8b-4614-8e3c-35d7fd024ba2" />
 <img width="400" height="700" alt="q3a" src="https://github.com/user-attachments/assets/b1ff111f-cb35-4d8f-85c5-b9d56c26a487" />
 
-4. Understanding how many products customers add to their carts but never purchase allows managers to detect potential revenue loss, diagnose friction in the shopping or checkout process, and implement targeted remarketing or UX improvements to increase conversions.
+4. This query shows the number of products left stranded in customers carts without being purchased.
+
+Understanding how many products customers add to their carts but never purchase allows managers to detect potential revenue loss, diagnose friction in the shopping or checkout process, and implement targeted remarketing or UX improvements to increase conversions.
 <img width="600" height="600" alt="q4" src="https://github.com/user-attachments/assets/a2280591-4930-4889-b1a1-9afd5803f684" />
 <img width="400" height="1200" alt="q4a" src="https://github.com/user-attachments/assets/60dd59ec-d557-4852-b627-daa38a3a9936" />
 
-5. This query identifies customers who have had poor experiences by combining both low review ratings and product returns. It helps the business recognize potentially dissatisfied customers so customer service teams can follow up, address issues, and improve retention.
+5. This query identifies customers who have had poor experiences by combining both low review ratings and product returns. 
+
+It helps managers recognize potentially dissatisfied customers so customer service teams can follow up, address issues, and improve retention.
 <img width="1133" height="701" alt="image" src="https://github.com/user-attachments/assets/e6e8c8d4-dec1-491b-b09e-2fe2d886c63a" />
 <img width="1160" height="278" alt="image" src="https://github.com/user-attachments/assets/39c2e5bc-b007-46c8-a5ad-1aa45cb6e2b5" />
  
