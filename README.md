@@ -61,7 +61,9 @@ Overall, the data model represents the main functions and systems of an online s
 <img width="600" height="600" alt="q4" src="https://github.com/user-attachments/assets/a2280591-4930-4889-b1a1-9afd5803f684" />
 <img width="400" height="1200" alt="q4a" src="https://github.com/user-attachments/assets/60dd59ec-d557-4852-b627-daa38a3a9936" />
 
-5. 
+5. This query identifies customers who have had poor experiences by combining both low review ratings and product returns. It helps the business recognize potentially dissatisfied customers so customer service teams can follow up, address issues, and improve retention.
+<img width="1133" height="701" alt="image" src="https://github.com/user-attachments/assets/e6e8c8d4-dec1-491b-b09e-2fe2d886c63a" />
+<img width="1160" height="278" alt="image" src="https://github.com/user-attachments/assets/39c2e5bc-b007-46c8-a5ad-1aa45cb6e2b5" />
  
 ## Metabase Visualizations:
 <img width="1050" height="500" alt="revenue" src="https://github.com/user-attachments/assets/827bd7bf-54fd-4696-ba17-4f4cdcf7f1e7" />
@@ -84,4 +86,6 @@ Average Customer Review Rating per Category:
 * Relevance: This chart provides insight into customer satisfaction and product quality. Categories with high revenue but low ratings may require attention — poor customer experience can harm repeat purchases. Conversely, categories with high ratings can be leveraged for brand value or upsell opportunities. This chart helps management prioritize quality improvements, customer support initiatives, and product development.
 
 ## Database Information:
+Name of the database: cs_zgs18605
 
+Additional info: Each query listed above is marked in the database using stored procedures, which can be called using the following format: CALL TP_Q1() through TP+Q15();
